@@ -6,3 +6,10 @@ Script en bash que crawlea los sitios de empleo y, según el array de tecnologí
 De esta manera saco una "tendencia" de tecnologías mas solicitadas en el mercado y cuales me conviene aprender.
 </h3>
 
+
+
+# Output
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jpradoar/tendencias_de_tecnologias/master/crawling-jobs.png"/>
+</p>
